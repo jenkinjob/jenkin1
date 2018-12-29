@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-big();
+big2();
 fact();
-prime();
 rev();
+prime();
 }
